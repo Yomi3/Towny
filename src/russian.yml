@@ -9,11 +9,11 @@ description: >
     
 #
 #
-#         You MUST retain spacing in the texts.
-#  If a text begins or ends with a space, it must remain that way.
+#         При переводе, сохраняйте пробелы!
+#  
 #
 #
-#       %s = data to be supplied by the plugin.
+#       %s = мета-данные плагина. НЕ ТРОГАТЬ!
 
 # Цвета в Minecraft
 # --------------
