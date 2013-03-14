@@ -249,23 +249,23 @@ msg_toggle_open_on_warning: 'Внимание: Townperms следует откл
 
 msg_changed_world_setting: '&c%s for %s is: %s.'
 
-msg_world_pvp: '&cThis world is PvP only.'
-msg_world_mobs: '&cThis world has Monster spawns forced on.'
-msg_world_expl: '&cThis world has Explosions forced on.'
-msg_world_fire: '&cThis world has Fire spread forced on.'
-
-msg_plot_pvp: '&cPVP can not be toggled in an Arena Plot.'
-msg_plot_regen_wrong_size: '&cRegen can only be performed when the default plot size (16) is used.'
-
-msg_reloaded: '&2Towny''s settings were reloaded.'
-msg_undo_complete: '&2Undo complete.'
-msg_give_total: '&bGave %s bonus. (Total: %s)'
-mag_backup_success: '&2Backup successful.'
-msg_xx_withdrew_xx: '&b%s withdrew %s from the %s bank.'
-msg_xx_deposited_xx: '&b%s deposited %s into the %s bank.'
-msg_insuf_funds: '&cYou don''t have that much.'
-msg_err_withdraw_disabled: 'Withdrawing from this bank is disabled!'
-msg_err_deposit_capped: 'Unable to desposit money. This bank is capped at %s.'
+msg_world_pvp: '&cЭтот мир только с PVP.'
+msg_world_mobs: '&cЭтот мир только со спауном мобов.'
+msg_world_expl: '&cЭтот мир только с разрушениями.'
+msg_world_fire: '&cЭтот мир только с распространением огня.'
+ 
+msg_plot_pvp: '&cИзменение статуса PvP запрещено в данном участке.'
+msg_plot_regen_wrong_size: '&cВосстановление участка возможно только при его размере равному одному чанку(16).'
+ 
+msg_reloaded: '&2TНастройки города''s были обновлены.'
+msg_undo_complete: '&2Успешно отменено.'
+msg_give_total: '&bДал %s бонус. (Total: %s)'
+mag_backup_success: '&2Бекап создан успешно.'
+msg_xx_withdrew_xx: '&b%s вывел %s из %s банка.'
+msg_xx_deposited_xx: '&b%s Пополнение %s банка %s.'
+msg_insuf_funds: '&cВы не можете иметь больше.'
+msg_err_withdraw_disabled: 'Вывод средств из банка приостановлен!'
+msg_err_deposit_capped: 'Не удалось внести деньги. Этот банк запривачен %s.'
 
 msg_set_town_home: '&bSuccessfully changed town''s home block to %s'
 msg_set_town_spawn: '&bSuccessfully changed town''s spawn.'
