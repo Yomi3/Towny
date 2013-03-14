@@ -419,7 +419,7 @@ msg_err_insuficient_funds_warflag: 'You require %s in order to place a warflag.'
 msg_err_insuficient_funds_future: 'You require %s in the event you need to pay for %s.'
 name_defended_attack: 'defended attack'
 name_rebuilding: 'rebuilding fine'
-msg_enemy_war_area_defended_attacker: '&6[War]&c You were forced to pay %s %s for your failed attack.'
+msg_enemy_war_area_defended_attacker: '&6[War]&c Ты were forced to pay %s %s for your failed attack.'
 msg_enemy_war_area_defended_defender: '&6[War]&c %s payed you %s for the failed attack.'
 msg_enemy_war_area_defended_greater_forces: '&6[War]&c Your failed attack costed you %s.'
 
